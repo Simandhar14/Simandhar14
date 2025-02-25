@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Simandhar Kumar Baid</h1>
 <img align="right" alt="Coding"  width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Simandhar14](https://github.com/Simandhar14)
-
 - 💬 Ask me about **MERN and DSA**
 
-- 📫 How to reach me **baidsimandhar@gmail.com**
+- 👨‍💻 How to reach me **baidsimandhar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zUyYtfIi9BPayPHN5yoMPkBbL_8RWGOf/view?usp=sharing](https://drive.google.com/file/d/1zUyYtfIi9BPayPHN5yoMPkBbL_8RWGOf/view?usp=sharing)
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1P4SkTn1qLjl1HG6FNxTrzkk-ToHBgMy0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
